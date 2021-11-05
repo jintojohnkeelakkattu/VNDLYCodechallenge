@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W9rTTRae/uXK/0455u8RQJlphKC1+f9quVztpQd+9Kku+xGdOE1WKMtBbhOot08L92gF/IMT0Aic8E/dSrG1Qg==",
+  "success": true,
+  "projectFilePath": "C:\\Jinto\\Project\\SalesTax\\SalesCart\\SalesCart\\SalesCart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\THOMA\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\THOMA\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}
